@@ -29,5 +29,3 @@ Stretch points will only be counted if all other problems have been completed.
   * 1: 0-14
   * 2: 15-19
   * 3: 20+
-
-test comment
